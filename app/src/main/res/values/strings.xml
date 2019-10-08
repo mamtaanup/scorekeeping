@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">scorekeeping</string>
+    <string name="button1_inc">-</string>
+    <string name="button1_dec">-</string>
+    <string name="button2_inc">+</string>
+    <string name="button1_dec">-</string>
+    <string name="button2_inc">+</string>
+</resources>
